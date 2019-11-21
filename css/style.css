@@ -28,7 +28,6 @@ p {
 
 nav {
   background-color: rgba(0,0,0,0.5);
-  float: left;
   position: fixed;
   width: 100%;
 }
